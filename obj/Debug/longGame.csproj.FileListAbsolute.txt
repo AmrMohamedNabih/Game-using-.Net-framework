@@ -1,0 +1,9 @@
+C:\Users\omar ahmed\Desktop\longGame\bin\Debug\longGame.exe.config
+C:\Users\omar ahmed\Desktop\longGame\bin\Debug\longGame.exe
+C:\Users\omar ahmed\Desktop\longGame\bin\Debug\longGame.pdb
+C:\Users\omar ahmed\Desktop\longGame\obj\Debug\longGame.csproj.AssemblyReference.cache
+C:\Users\omar ahmed\Desktop\longGame\obj\Debug\longGame.Properties.Resources.resources
+C:\Users\omar ahmed\Desktop\longGame\obj\Debug\longGame.csproj.GenerateResource.cache
+C:\Users\omar ahmed\Desktop\longGame\obj\Debug\longGame.csproj.CoreCompileInputs.cache
+C:\Users\omar ahmed\Desktop\longGame\obj\Debug\longGame.exe
+C:\Users\omar ahmed\Desktop\longGame\obj\Debug\longGame.pdb
